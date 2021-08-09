@@ -1,1 +1,1 @@
-# TOSEM-Example
+# Class-Example
